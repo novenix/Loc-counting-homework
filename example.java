@@ -6,6 +6,10 @@ import java.nio.file.Paths;
 import java.util.Hashtable;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
+
+/**
+ * The type App.
+ */
 public class App
 {
     private static Hashtable<String, Boolean> comentarios = new Hashtable<>();
@@ -59,6 +63,12 @@ public class App
 
         return  haveComment;
     }
+
+    /**
+     * The entry point of application.
+     *
+     * @param args the input arguments
+     */
     public static void main( String[] args )
     {
         //comentarios.put("\n", true);
