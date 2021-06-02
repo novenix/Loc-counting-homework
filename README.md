@@ -1,4 +1,5 @@
 # LOC Counting
+Loc / 10 = 179 / 10 = 17;
 ## INTRODUCTION
     Use Maven, Git, JUnit, and GITHUB.
 Write a program to Count the Lines of Code of a source file. The Lines Of Code (LOC) of a
